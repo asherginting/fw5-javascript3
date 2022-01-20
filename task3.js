@@ -1,0 +1,1 @@
+/* Program Bebas menggunakan Promise */

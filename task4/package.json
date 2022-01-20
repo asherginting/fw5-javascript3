@@ -1,0 +1,27 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "description": "Method Fetch dari REST API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asherginting/fw5-javascript3.git"
+  },
+  "keywords": [
+    "Fetch"
+  ],
+  "author": "Asher Azriel Ginting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asherginting/fw5-javascript3/issues"
+  },
+  "homepage": "https://github.com/asherginting/fw5-javascript3#readme",
+  "dependencies": {
+    "cross-fetch": "^3.1.4",
+    "fetch": "^1.1.0"
+  }
+}
